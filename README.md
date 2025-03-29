@@ -2,7 +2,8 @@
 A modern and responsive calculator built using HTML, CSS, and JavaScript. It supports both button clicks and keyboard input for seamless calculations.
 
 # Features:
-Fully responsive design
+Fully responsive design.
+
 Stylish UI with a modern gradient theme 
 Supports keyboard input (numbers, operators, Enter, Backspace, and Delete) 
 Clickable buttons with smooth hover and active effects 
